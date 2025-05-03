@@ -16,18 +16,5 @@ We use a CNN architecture to extract features from digit images and classify the
 - Python 3.x
 - TensorFlow / Keras
 - NumPy, Pandas, Matplotlib
-- Flask (for web deployment)
 
-## 📁 Files & Folders
 
-- `digit_recognition.ipynb` – Jupyter notebook with full code.
-- `model.h5` – Trained CNN model.
-- `app.py` – Flask web app.
-- `templates/` – HTML frontend.
-- `static/` – CSS/JS/images.
-- `requirements.txt` – List of required packages.
-
-## 🚀 How to Run
-
-1. Clone this repo
-2. Install dependencies:
